@@ -4,6 +4,18 @@ Coordinated decision making and control can improve traffic efficiency while gua
 
 ## The video (full version) can be seen in the attachments, and here we provide some segmental GIFs.
 
+### Case study
+<img src="https://github.com/cmc623/Mengchi_Cai_TsinghuaUniversity/blob/main/multiVehicle.gif" width="700" />
+
+### Simulation without formation control
+<img src="https://github.com/cmc623/Mengchi_Cai_TsinghuaUniversity/blob/main/multiVehicle.gif" width="700" />
+
+### Simulation with formation control
+<img src="https://github.com/cmc623/Mengchi_Cai_TsinghuaUniversity/blob/main/multiVehicle.gif" width="700" />
+
+### Congestion comparison
+<img src="https://github.com/cmc623/Mengchi_Cai_TsinghuaUniversity/blob/main/multiVehicle.gif" width="700" />
+
 For further details, please refer to:
 
 Cai, M., Xu, Q., Chen, C., Wang, J., Li, K., Wang, J., & Zhu, Q. (2021). Formation Control for Multiple Connected and Automated Vehicles on Multi-lane Roads. arXiv preprint arXiv:2103.10287.
