@@ -8,7 +8,7 @@ Coordinated decision making and control can improve traffic efficiency while gua
 <img src="https://github.com/cmc623/Multi-lane-formation-control/blob/main/GIF%20case%20study.gif" width="700" />
 
 ### Simulation without formation control
-<img src="https://github.com/cmc623/Mengchi_Cai_TsinghuaUniversity/blob/main/multiVehicle.gif" width="700" />
+<img src="https://github.com/cmc623/Multi-lane-formation-control/blob/main/GIF%20without%20formation%20control.gif" width="700" />
 
 ### Simulation with formation control
 <img src="https://github.com/cmc623/Multi-lane-formation-control/blob/main/GIF%20with%20formation%20control.gif" width="700" />
