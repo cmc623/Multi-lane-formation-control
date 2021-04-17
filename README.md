@@ -18,7 +18,8 @@ Coordinated decision making and control can improve traffic efficiency while gua
 
 For further details, please refer to:
 
-Cai, M., Xu, Q., Chen, C., Wang, J., Li, K., Wang, J., & Zhu, Q. (2021). Formation Control for Multiple Connected and Automated Vehicles on Multi-lane Roads. arXiv preprint arXiv:2103.10287.
+Cai, M., Xu, Q., Chen, C., Wang, J., Li, K., Wang, J., & Zhu, Q. (2021). Formation Control for Multiple Connected and Automated Vehicles on Multi-lane Roads. arXiv preprint arXiv:2103.10287. (https://arxiv.org/abs/2103.10287)
+
 
 Corresponding E-mail: qingxu@tsinghua.edu.cn
 
