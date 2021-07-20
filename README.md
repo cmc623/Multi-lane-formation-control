@@ -20,6 +20,10 @@ For further details, please refer to:
 
 Cai, M., Xu, Q., Chen, C., Wang, J., Li, K., Wang, J., & Zhu, Q. (2021). Formation Control for Multiple Connected and Automated Vehicles on Multi-lane Roads. arXiv preprint arXiv:2103.10287. (https://arxiv.org/abs/2103.10287)
 
+Cai M, Xu Q, Chen C, et al. Formation Control for Connected and Automated Vehicles on Multi-lane Roads: Relative Motion Planning and Conflict Resolution[J]. arXiv preprint arXiv:2103.10287, 2021. (https://arxiv.org/abs/2103.10287)
+
+Cai M, Chen C, Wang J, et al. Formation Control with Lane Preference for Connected and Automated Vehicles in Multi-lane Scenarios[J]. arXiv preprint arXiv:2106.11763, 2021. (https://arxiv.org/abs/2106.11763)
+
 
 Corresponding E-mail: 
 
