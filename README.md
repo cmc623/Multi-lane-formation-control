@@ -33,4 +33,6 @@ qingxu@tsinghua.edu.cn
 
 likq@tsinghua.edu.cn
 
+Follow my updates on Researchgate: https://www.researchgate.net/profile/Mengchi-Cai
+
 This work was supported by the National Key Research and Development Program of China under Grant 2018YFE0204302, the National Natural Science Foundation of China under Grant 52072212, and Intel Collaborative Research Institute Intelligent and Automated Connected Vehicles. 
