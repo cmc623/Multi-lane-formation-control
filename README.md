@@ -21,6 +21,12 @@ For further details, please refer to:
 Cai, M., Xu, Q., Chen, C., Wang, J., Li, K., Wang, J., & Zhu, Q. (2021). Formation Control for Multiple Connected and Automated Vehicles on Multi-lane Roads. arXiv preprint arXiv:2103.10287. (https://arxiv.org/abs/2103.10287)
 
 
-Corresponding E-mail: qingxu@tsinghua.edu.cn
+Corresponding E-mail: 
+
+cmc18@mails.tsinghua.edu.cn
+
+qingxu@tsinghua.edu.cn
+
+likq@tsinghua.edu.cn
 
 This work was supported by the National Key Research and Development Program of China under Grant 2018YFE0204302, the National Natural Science Foundation of China under Grant 52072212, and Intel Collaborative Research Institute Intelligent and Automated Connected Vehicles. 
