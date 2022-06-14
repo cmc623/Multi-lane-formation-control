@@ -7,14 +7,23 @@ Coordinated decision making and control can improve traffic efficiency while gua
 ### Case study
 <img src="https://github.com/cmc623/Multi-lane-formation-control/blob/main/GIF%20case%20study.gif" width="700" />
 
-### Simulation without formation control
-<img src="https://github.com/cmc623/Multi-lane-formation-control/blob/main/GIF%20without%20formation%20control.gif" width="700" />
+### Simulation of formation control
+<img src="https://github.com/cmc623/Multi-lane-formation-control/blob/main/frc%2000_00_00-00_00_30.gif" width="700" />
 
-### Simulation with formation control
-<img src="https://github.com/cmc623/Multi-lane-formation-control/blob/main/GIF%20with%20formation%20control.gif" width="700" />
+### Simulation of SUMO default model
+<img src="https://github.com/cmc623/Multi-lane-formation-control/blob/main/ref%2000_00_00-00_00_30.gif" width="700" />
 
-### Congestion comparison
-<img src="https://github.com/cmc623/Multi-lane-formation-control/blob/main/GIF%20congestion%20comparison.gif" width="700" />
+### Simulation of pre-lane-changing method
+<img src="https://github.com/cmc623/Multi-lane-formation-control/blob/main/ref2%2000_00_00-00_00_30.gif" width="700" />
+
+### Simulation of single-lane platooning control (1 vehicle in each platoon)
+<img src="https://github.com/cmc623/Multi-lane-formation-control/blob/main/ref3-1%2000_00_00-00_00_30.gif" width="700" />
+
+### Simulation of single-lane platooning control (3 vehicles in each platoon)
+<img src="https://github.com/cmc623/Multi-lane-formation-control/blob/main/ref3-3%2000_00_00-00_00_30.gif" width="700" />
+
+### Simulation of single-lane platooning control (6 vehicles in each platoon)
+<img src="https://github.com/cmc623/Multi-lane-formation-control/blob/main/ref3-6%2000_00_00-00_00_30.gif" width="700" />
 
 For further details, please refer to:
 
