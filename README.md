@@ -27,23 +27,25 @@ Coordinated decision making and control can improve traffic efficiency while gua
 
 For further details, please refer to:
 
-[1] Cai M, Xu Q, Chen C, et al. Formation Control for Multiple Connected and Automated Vehicles on Multi-lane Roads[C]. Accepted by IEEE International Conference on Intelligent Transportation Systems, 2021. (https://arxiv.org/abs/2103.10287)
+[1] Cai M, Xu Q, Chen C, et al. Multi-lane unsignalized intersection cooperation with flexible lane direction based on multi-vehicle formation control[J]. IEEE Transactions on Vehicular Technology, 2022, 71(6): 5787-5798. (https://ieeexplore.ieee.org/abstract/document/9740423/)
 
-[2] Cai M, Xu Q, Chen C, et al. Formation Control for Connected and Automated Vehicles on Multi-lane Roads: Relative Motion Planning and Conflict Resolution[J]. arXiv preprint arXiv:2103.10287v3, 2021. (https://arxiv.org/abs/2103.10287)
+[2] Xu Q, Cai M, Li K, et al. Coordinated formation control for intelligent and connected vehicles in multiple traffic scenarios[J]. IET Intelligent Transport Systems, 2021, 15(1): 159-173. (https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/itr2.12022)
 
-[3] Cai M, Chen C, Wang J, et al. Formation Control with Lane Preference for Connected and Automated Vehicles in Multi-lane Scenarios[J]. arXiv preprint arXiv:2106.11763, 2021. (https://arxiv.org/abs/2106.11763)
+[3] Cai M, Xu Q, Li K, et al. Multi-lane formation assignment and control for connected vehicles[C]//2019 IEEE Intelligent Vehicles Symposium (IV). IEEE, 2019: 1968-1973. (https://ieeexplore.ieee.org/abstract/document/8813792)
 
-[4] Cai M, Xu Q, Chen C, et al. Multi-lane Unsignalized Intersection Cooperation with Flexible Lane Direction based on Multi-vehicle Formation Control[J]. arXiv preprint arXiv:2108.11112, 2021. (https://arxiv.org/abs/2108.11112)
+[4] Cai M, Xu Q, Chen C, et al. Formation control with lane preference for connected and automated vehicles in multi-lane scenarios[J]. Transportation research part C: emerging technologies, 2022, 136: 103513. (https://www.sciencedirect.com/science/article/pii/S0968090X21004964)
+
+[5] Cai M, Xu Q, Chen C, et al. Formation control for connected and automated vehicles on multi‐lane roads: Relative motion planning and conflict resolution[J]. IET Intelligent Transport Systems, 2023, 17(1): 211-226. (https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/itr2.12249)
+
+[6] Cai M, Xu Q, Chen C, et al. Formation control for multiple connected and automated vehicles on multi-lane roads[C]//2021 IEEE International Intelligent Transportation Systems Conference (ITSC). IEEE, 2021: 1940-1945. (https://ieeexplore.ieee.org/abstract/document/9564760)
 
 
 Corresponding E-mail: 
 
-cmc18@mails.tsinghua.edu.cn
+caimengchi@mail.tsinghua.edu.cn
 
 qingxu@tsinghua.edu.cn
 
 likq@tsinghua.edu.cn
 
 Follow my updates on Researchgate: https://www.researchgate.net/profile/Mengchi-Cai
-
-This work was supported by the National Key Research and Development Program of China under Grant 2018YFE0204302, the National Natural Science Foundation of China under Grant 52072212, and Intel Collaborative Research Institute Intelligent and Automated Connected Vehicles. 
